@@ -86,7 +86,7 @@
 
     .row.justify-content-center.align-items-center.bg10.pb-0
       .col-lg-10(data-aos="fade-down")
-        p Es una herramienta para crear interfaces de usuario (front-end) interactivas de manera sencilla. Sirve para realizar diseños de interfaces web, actualizando y renderizando de manera eficiente todos los componentes que la integran como HTML, CSS y JavaScript.        
+        p Es una herramienta para crear interfaces de usuario (#[i front-end]) interactivas de manera sencilla. Sirve para realizar diseños de interfaces web, actualizando y renderizando de manera eficiente todos los componentes que la integran como HTML, CSS y JavaScript.        
       .col-lg-2.py-3
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/15.png')  
         

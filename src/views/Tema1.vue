@@ -17,7 +17,7 @@
               .col-lg-5.p-0
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg')     
      
-        h4.tp.mb-5 A continuación, se muestran ejemplos de interfaces (front-end) de sitios web.  
+        h4.tp.mb-5 A continuación, se muestran ejemplos de interfaces (#[i front-end]) de sitios web.  
 
         .tarjeta.tarjeta--azul.p-4
           SlyderA(tipo="b")
@@ -27,7 +27,7 @@
      
               .col-lg-7
                 h4.tp Diseño
-                p El front-end es la parte principal donde el usuario interactúa con la web. Un desarrollador front-end, se encarga de llevar a la práctica la estructura y diseño de la página web. 
+                p El #[i front-end] es la parte principal donde el usuario interactúa con la web. Un desarrollador #[i front-end], se encarga de llevar a la práctica la estructura y diseño de la página web. 
 
             .row.justify-content-center
               .col-lg-4  
@@ -58,7 +58,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
           div(titulo="HTML") La maquetación web utiliza estructuras como HTML para organizar la página y desplegar su contenido. Este proceso permite situar elementos como ventanas, párrafos, listas con viñetas, imágenes y tablas en campos específicos. Además, se pueden definir características visuales como tipos de fuente, tamaños, colores y resaltados para hacer la web más atractiva para los usuarios. Todo esto se complementa con el lenguaje CSS, que enriquece la estructura de HTML añadiendo estilos y colorido. Juntos, HTML y CSS crean sitios web visualmente atractivos y funcionalmente organizados.
           div(titulo="CSS")
-            p Es el acrónimo de Cascading Style Sheets (hojas de estilo en cascada). Es un lenguaje que se basa en reglas donde el usuario define las características de los grupos de estilos de colores, fuentes, tamaños y demás particularidades que se quieren mostrar en la web.
+            p Es el acrónimo de #[i Cascading Style Sheets] (hojas de estilo en cascada). Es un lenguaje que se basa en reglas donde el usuario define las características de los grupos de estilos de colores, fuentes, tamaños y demás particularidades que se quieren mostrar en la web.
 
             p El archivo .css, se utiliza llamando en las etiquetas html dentro del head. Por ejemplo: 
             ul.lista-ul.fa-ul

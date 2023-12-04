@@ -12,7 +12,7 @@
       .col-lg-5.my-3
         img.img-t.img-a(src='@/assets/curso/temas/17.png')
 
-    p(data-aos="fade-down").mb-5 Es ideal para crear el front-end, pues permite múltiples opciones a nivel de diseño gracias a que es una herramienta integral, rápida y eficiente. Para ello, hay que tener en cuenta lo siguiente. 
+    p(data-aos="fade-down").mb-5 Es ideal para crear el #[i front-end], pues permite múltiples opciones a nivel de diseño gracias a que es una herramienta integral, rápida y eficiente. Para ello, hay que tener en cuenta lo siguiente. 
 
     .row.bg11.align-items-center.py-4.pb-5
       .col-lg-12.col-12.px-lg-5.px-4      

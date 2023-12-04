@@ -48,7 +48,7 @@
       .col-lg-8.my-3
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
           div(titulo="Sitio web") 
-            p Es un conjunto de páginas web que son accesibles a través de un dispositivo con conexión a internet, convenientemente enlazadas que cumplen una finalidad específica. Está identificado por una dirección URL única que, usualmente, es la página de inicio u homepage del sitio web. 
+            p Es un conjunto de páginas web que son accesibles a través de un dispositivo con conexión a internet, convenientemente enlazadas que cumplen una finalidad específica. Está identificado por una dirección URL única que, usualmente, es la página de inicio u #[i homepage] del sitio web. 
           div(titulo="<i>Hosting</i>") 
             p Es provisto por un gran número de empresas a nivel mundial, se debe contratar de acuerdo con las necesidades específicas de la aplicación a implementar (espacio, base de datos, seguridad, entre otros). 
 

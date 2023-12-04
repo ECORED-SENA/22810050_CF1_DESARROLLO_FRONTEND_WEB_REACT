@@ -107,7 +107,7 @@ export default {
   },
   complementario: [
     {
-      tema: '1. <i>front-end</i>',
+      tema: '1. <i>Front-end</i>',
       referencia:
         'Platzi. (2021). <i>Qué es Frontend y Backend</i>. [Video]. YouTube.',
       tipo: 'Video',
@@ -123,7 +123,7 @@ export default {
       tema: '2. Herramientas de desarrollo web',
       referencia: 'Node.js. (2022). <i>Descarga | Node.js</i>.',
       tipo: 'Sitio web',
-      link: 'https://nodejs.org/es/download/',
+      link: 'https://nodejs.org/en',
     },
     {
       tema: '2. Herramientas de desarrollo web',
