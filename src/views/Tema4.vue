@@ -52,7 +52,7 @@
           div(titulo="<i>Hosting</i>") 
             p Es provisto por un gran número de empresas a nivel mundial, se debe contratar de acuerdo con las necesidades específicas de la aplicación a implementar (espacio, base de datos, seguridad, entre otros). 
 
-            p Algunas compañías de gran tamaño, en ocasiones optan por implementar el servicio de hosting directamente en sus servidores, por lo que no requieren contratar un proveedor externo.          
+            p Algunas compañías de gran tamaño, en ocasiones optan por implementar el servicio de #[i hosting] directamente en sus servidores, por lo que no requieren contratar un proveedor externo.          
           div(titulo="Dominio")
             p Corresponde a un nombre único en internet, identifica el nombre del sitio web como tal, por ejemplo: sena.edu.co es el dominio del SENA en Colombia. 
             p Se adquiere a través de múltiples compañías a nivel mundial, tiene un valor que generalmente se paga y renueva anualmente, no obstante, puede hacerse cada 2 o 3 años.          

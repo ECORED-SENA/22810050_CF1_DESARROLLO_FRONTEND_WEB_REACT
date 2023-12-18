@@ -175,7 +175,7 @@ export default {
   referencias: [
     {
       referencia: 'Node.js. (2022). Node.js.',
-      link: 'https://nodejs.org/es',
+      link: 'https://nodejs.org/en',
     },
     {
       referencia:

@@ -49,7 +49,7 @@
 
                 p La interacción está basada en el lenguaje de programación con JS, JavaScript. Se basa en los eventos que se utilizan para transformar una página estática en una interfaz dinámica para la interacción con el usuario, navegador y servidor.
 
-    p(data-aos="fade-down").mt-5 El #[i front-end] es la parte del software que interactúa con el usuario. Es desarrollado principalmente a través de los lenguajes HTML (#[i HyperText Markup Language]), CSS (#[i Cascading Style Sheets]) y JS (JavaScript), los cuales se explican a continuación:
+    p(data-aos="fade-down").mt-5 El #[i front-end] es la parte del #[i software] que interactúa con el usuario. Es desarrollado principalmente a través de los lenguajes HTML (#[i HyperText Markup Language]), CSS (#[i Cascading Style Sheets]) y JS (JavaScript), los cuales se explican a continuación:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4
